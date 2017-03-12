@@ -1,0 +1,7 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<resources>
+    <!-- Pushbots Application ID  -->
+    <string name="pb_appid">551690861d0ab1581c8b456f</string>
+    <!-- GCM Sender ID -->
+    <string name="pb_senderid">812218898926</string>
+</resources>
